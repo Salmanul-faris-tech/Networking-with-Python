@@ -1,0 +1,1 @@
+print("\nHourly Log Activity:\n", hourly_activity)
